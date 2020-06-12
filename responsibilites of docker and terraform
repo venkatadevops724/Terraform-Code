@@ -1,0 +1,59 @@
+Docker Responsibilitges:
+
+	Worked on installation of Docker using Docker toolbox.
+	Worked on creation of custom Docker container images, tagging and pushing the images.
+	Worked on creating the Docker containers and Docker consoles for managing the application life cycle.
+	Worked on setting up the automated build on Docker Hub.
+
+
+•	Worked on Docker container snapshots, attaching to a running container, removing images, managing directory structures and managing containers.
+
+
+•	Experience in virtualizing the servers using Docker for the test environments and dev environment needs and gained knowledge in cluster tool like kubernetes.
+
+
+•	Installed and configured Kubernetes and Docker on AWS EKS (Elastic Kubernetes Service) in Dev, Test , Stage
+
+
+•	Leveraged Docker Engine to run Multiple Tomcat Instances as Containerized App Servers. 
+•	Developed Docker images to support Development and Testing Teams and their pipeline and orchestrated Docker 
+
+Migrated monolithic applications to Kubernetes Utilized Kubernetes and Docker for the runtime environment 
+Of the CI/CD system to build, test deploy using Terraform
+
+
+
+
+•	Expertise in Docker, Kubernetes, Helm deployment process
+•	Worked on docker’ized deployments for QA environment
+
+
+
+
+
+•	Composed Kubernetes configuration files for orchestrating Docker containers
+•	Strong working knowledge on Docker, Kubernetes and various components of Kubernetes
+•	Involved in creating Kubernetes clusters from scratch and hosting Docker containers
+•	Configuring the Docker containers and creating Docker files for different environments
+
+
+
+
+
+
+Repository Management: Artifactory, Nexus, Docker hub.
+Containerization tool: Docker, Kubernetes
+Configuration Management Tools: Chef, Ansible, Terraform
+
+
+Build and Virtualization Tools           	 Maven and Docker
+
+
+Technologies
+
+	Opscode Chef, GOCD, Ansible, Docker, Helm, Maven, Kubernetes, Rancher, IBM Bluemix, Travis CI, ELK stack, Stash, Terraform, Powershell
+
+
+
+
+	Online course: Deploying containerized applications technical overview
